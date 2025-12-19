@@ -1,7 +1,6 @@
-## Hi there 👋
+# 👋 Hola, soy Rodrigo
 
-## 🧰 Tecnologías
-
+## Tecnologías que me gustan
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
@@ -15,24 +14,7 @@
 </p>
 
 
-# 👋 Hola, soy Rodrigo
-
-Desarrollador web interesado en construir interfaces limpias y eficientes.
-
----
-
-## 🚀 Tecnologías que me gustan
-- JavaScript / TypeScript
-- Astro
-- React
-- Tailwind CSS
-- Node.js
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rodrigoxd330&show_icons=true&hide_title=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoxd330&layout=compact)
-
----
