@@ -31,8 +31,8 @@ Desarrollador web interesado en construir interfaces limpias y eficientes.
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rodrigoxd330&show_icons=true&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoxd330&layout=compact)
 
 ---
