@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hola, soy Rodrigo
+
+Desarrollador web interesado en construir interfaces limpias y eficientes.
+
+---
+
+## 🚀 Tecnologías que me gustan
+- JavaScript / TypeScript
+- Astro
+- React
+- Tailwind CSS
+- Node.js
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+
+---
