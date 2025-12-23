@@ -10,9 +10,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </p>
-
-
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Rodrigoxd330&show_icons=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoxd330&layout=compact)
